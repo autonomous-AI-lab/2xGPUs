@@ -61,14 +61,14 @@
 
 # 🛠️ Preparation &ensp; [🔝](#-table-of-contents)
 
-### 1. [**Electronic & Electrical**](https://github.com/AutonomousOfficial/2xGPUs/blob/main/Docs/Prepare_EE.md)
+### 1. [**Electronic & Electrical**](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_EE.md)
 
-### 2. [**Mechanical & Housing**](https://github.com/AutonomousOfficial/2xGPUs/blob/main/Docs/Prepare_ME.md)
+### 2. [**Mechanical & Housing**](hhttps://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_ME.md)
 
 ---
 
 # 🤖 Assembly &ensp; [🔝](#-table-of-contents)
-[See detailed steps](https://github.com/AutonomousOfficial/2xGPUs/blob/main/Docs/Assembly.md)
+[See detailed steps](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Assembly.md)
 
 ---
 
