@@ -63,7 +63,7 @@
 
 ### 1. [**Electronic & Electrical**](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_EE.md)
 
-### 2. [**Mechanical & Housing**](hhttps://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_ME.md)
+### 2. [**Mechanical & Housing**](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_ME.md)
 
 ---
 
@@ -107,8 +107,8 @@
 After saving changes, reboot and monitor GPU performance and stability.
 
 **References:**  
-- [Motherboard User Manual 💻🖱️](https://github.com/AutonomousOfficial/2xGPUs/blob/main/Docs/UM_Motherboard.pdf)  
-- [BMC Documents 🤖](https://github.com/AutonomousOfficial/2xGPUs/blob/main/Docs/UM_BIOS.pdf)
+- [Motherboard User Manual 💻🖱️](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/UM_Motherboard.pdf)  
+- [BMC Documents 🤖](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/UM_BIOS.pdf)
 
 <p align="center">
     <video src=""></video>
@@ -121,14 +121,9 @@ After saving changes, reboot and monitor GPU performance and stability.
 Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvtop`. Once confirmed, install your OS and start your AI work.
 
 <table>
-    <tr>
         <td align="center">
-            <img src="Photos/8GPU/Testing/" width="700"><br>
+            <img src="Photos/2GPU/Testing/nvidia-smi.png" width="700"><br>
         </td>
-        <td align="center">
-            <img src="Photos/8GPU/Assembly/" width="400"><br>
-        </td>
-    </tr>
 </table>
 
 <p align="center">
@@ -145,7 +140,7 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 # 📝 License &ensp; [🔝](#-table-of-contents)
 
-This project is open source under the [MIT License](https://github.com/AutonomousOfficial/2xGPUs/blob/main/LICENSE).
+This project is open source under the [MIT License](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/LICENSE).
 
 ---
 

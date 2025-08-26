@@ -15,25 +15,17 @@
             <img src="../Photos" width="400"><br>
             <b>13. Fan</b><br>
             <img src="../Photos/2GPU/Preparing/EE/fan.jpg" width="400"><br>
-            <b>15. Motherboard power cable</b><br>
-            <img src="../Photos" width="400"><br>
         </td>
         <td valign="top" align="center" width="50%">
-            <b>2. PSU board</b><br>
-            <img src="../Photos" width="400"><br>
-            <b>4. CPU heat sink</b><br>
+            <b>2. CPU heat sink</b><br>
             <img src="../Photos/2GPU/Preparing/EE/cpu-heatsink.jpg" width="400"><br>
-            <b>6. SSD heat sink</b><br>
-            <img src="../Photos/2GPU/Preparing/EE/" width="400"><br>
-            <b>8. PSU</b><br>
+            <b>4. PSU</b><br>
             <img src="../Photos/2GPU/Preparing/EE/psu.jpg" width="400"><br>
-            <b>10. Power cord</b><br>
+            <b>6. Power cord</b><br>
             <img src="../Photos/2GPU/Preparing/EE/power_cord.jpg" width="400"><br>
-            <b>12. GPU</b><br>
+            <b>8. GPU</b><br>
             <img src="../Photos/2GPU/Preparing/EE/GPU.jpg" width="400"><br>
-            <b>14. Hub fan</b><br>
-            <img src="../Photos" width="400"><br>
-            <b>16. GPU power cable</b><br>
+            <b>10. GPU power cable</b><br>
             <img src="../Photos/2GPU/Preparing/EE/GPU_cable_power.jpg" width="400"><br>
         </td>
     </tr>
