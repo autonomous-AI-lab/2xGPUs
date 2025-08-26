@@ -134,7 +134,7 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 # 📦 Bill of Materials (BOM) &ensp; [🔝](#-table-of-contents)
 
-- [𝄜 Bill of Materials](https://github.com/AutonomousOfficial/2xGPUs/blob/main/BOM/BOM.md)
+- [𝄜 Bill of Materials](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/BOM/BoM.md)
 
 ---
 
