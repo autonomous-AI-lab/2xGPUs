@@ -63,7 +63,7 @@
 
 ### 1. [**Electronic & Electrical**](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_EE.md)
 
-### 2. [**Mechanical & Housing**](https://github.com/autonomous-AI-lab/2xGPUs/blob/main/Docs/Prepare_ME.md)
+### 2. [**Mechanical & Housing**](https://github.com/autonomous-AI-lab/2xGPUs/tree/main/Step_Models)
 
 ---
 
