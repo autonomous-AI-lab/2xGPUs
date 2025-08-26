@@ -118,7 +118,7 @@ After saving changes, reboot and monitor GPU performance and stability.
 
 # 🧪 Testing &ensp; [🔝](#-table-of-contents)
 
-Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvtop`. Once confirmed, install your OS and start your AI work.
+Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvidia-smi or nvtop`. Once confirmed, install your OS and start your AI work.
 
 <table>
         <td align="center">
